@@ -4,6 +4,7 @@ fun main(){
     burenka.getDetails()
     burenka.eat()
     burenka.say()
+    burenka.weight
 
 
     BitCoin().getSalary()
